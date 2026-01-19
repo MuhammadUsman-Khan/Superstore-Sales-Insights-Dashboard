@@ -9,6 +9,18 @@ A comprehensive Power BI dashboard analyzing sales performance, customer behavio
 
 ---
 
+## Dashboard Preview
+
+### Overview Page
+![Superstore Sales Dashboard](Superstore%20Sales%20main%201.png)
+
+
+### Slicers Panel
+![Superstore Sales Dashboard](Superstore%20Sales%20main%202.png)
+
+
+---
+
 ## 🎯 Key Features
 
 ### 📊 Sales Performance Analysis
